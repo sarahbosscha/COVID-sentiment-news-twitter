@@ -1,4 +1,5 @@
-Code for thesis AI UvA: "How are scientific papers on COVID-19 discussed on Twitter and in newspapers?".
+Code for thesis AI UvA: "How are scientific papers on COVID-19 discussed on Twitter and in newspapers?". 
+Written by Sarah Bosscha, student Artificial Intelligence.
 
 Since december 2019, the COVID-19 pandemic captivated the global scientific world. Twitter and newspapers are primarily responsible for spreading scientific findings on the pandemic and the virus. With the high medical threat of the virus it is important that the articles are discussed correctly. Thus, it is essential to do research on the accuracy of media concerning the COVID-19 scientific findings and the sentiment of the message.\\ 
 Until now, not much research has been done on the spreading of medical news. This thesis explores sentiment analysis and the linguistic features that are able to distinguish between fake and real news. It compares the main topics of scientific articles with those of news articles and tweets.\\
