@@ -6,5 +6,5 @@ It appears that the news articles and the tweets are mostly facts and beliefs, s
 
 The data is mostly collected from:
 CORD19; Dimensions; WHO.
-Code used for datacollecting from GIT: https://github.com/CWTSLeiden/cwts_covid
+Code used for datacollecting from GIT: https://github.com/CWTSLeiden/cwts_covid (cwts_covid-master-3), not written by me.
 
